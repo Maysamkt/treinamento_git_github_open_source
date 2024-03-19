@@ -39,7 +39,7 @@
 ### Faça um Fork desse Repositório para o seu GitHub
 ### Faça um Clone do Repositório Remoto para sua máquina
 
-`git clone https://github.com/SEU_USERNAME/treinamento_git_github_open_source.git` **copie o link do fork do seu repositório**
+`git clone git@github.com:SEU_USERNAME/treinamento_git_github_open_source.git` **copie o acesso ssh do fork que está no seu repositório**
 
 ### Adicione o remote upstream para manter seu repositório local atualizado. 
 Por exemplo: `git remote add upstream https://github.com/maysamkt/treinamento_git_github_open_source.git`;
